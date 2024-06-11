@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lucija Liović - moj html dokument</title>
+</head>
+<body>
+    <h1>Digitalni multimedij 1</h1>
+	<h2>Lucija Liović</h2>
+	<nav>
+	<p>Navigacijska lista:</p>
+	<ul>
+	<li><a href="https://www.grf.unizg.hr/">Link na neku drugu stranicu</a></li>
+	<li><a href="vjezba1.html">Link na drugi html dokument</a></li>
+	<li><a href="lucija_liovic__vjezba4.pdf">pdf dokument</a></li>
+	</ul>
+	</nav>
+    <p>Ja sam <b>Lucija Liović</b>. Imam <i>19 godina</i>. Živim na <mark>zapadu Istre</mark>.
+	U slobodno vrijeme volim <span style="color:orange;">crtati</span>, družiti se s <mark>obitelji i prijateljima</mark>, 
+	gledati filmove i pjevati. 
+	Od <span style="color:green;">glazbe</span> najviše volim slušati <b>pop</b>.
+    Završila sam <i>glazbenu školu</i> te povremeno znam zasvirati na <b>klaviru</b>.
+	Moj omiljeni citat je <q>We accept the love we think we deserve.</q> iz filma <i>The Perks of Being a Wallflower</i>.
+	</p>
+	<p>Glazba koju slušam:</p>
+	<ol>
+	  <li>Nadahnuće - Dino Dvornik</li>
+	  <li>Ivy - Frank Ocean</li>
+	  <li>Les - Childish Gambino</li>
+	</ol>
+	<p>Filmovi koje volim:</p>
+	<ul>
+	  <li>Shrek 2</li>
+	  <li>About Time</li>
+	  <li>Pride and Prejudice</li>
+	</ul>
+	<p>
+	<blockquote>
+	        Youth is happy because it has the ability to see beauty.<br/> 
+	        Anyone who keeps the ability to see beauty never grows old.<br/>
+		    - Franz Kafka
+    </blockquote>
+	</p>
+	
+	
+	
+</body>
+</html>
